@@ -13,7 +13,7 @@ input_values = [
     (
      ["2","gato", "perro", "gato", "ardilla",3],
     ["Cuántas palabras por lista: ","Ingresa los datos para la lista 1",">>> ", ">>> ", "['gato', 'perro']", "Ingresa los datos para la lista 2",
-    ">>> ", ">>> ", "['jabali', 'ardilla']", "Número de caracteres: ", "[]"],
+    ">>> ", ">>> ", "['gato', 'ardilla']", "Número de caracteres: ", "[]"],
     ["La salida no cumple con el caso de prueba."]
     )
     ]
